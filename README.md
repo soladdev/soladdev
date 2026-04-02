@@ -1,6 +1,6 @@
 <div align="center">
 
-# Soladdev
+# ✩ Soladdev ✩
 
 **AI · Solana · Rust**
 
@@ -20,9 +20,9 @@ I build **AI-driven tooling**, **Solana** applications and infrastructure, and *
 
 ## Focus areas
 
-- **AI** — agents, automation, and ML-adjacent pipelines tied to trading and protocol workflows  
-- **Solana** — programs, bots, relayers, aggregators, and validator-facing tooling  
-- **Rust** — systems and protocol-level code for performance-critical paths  
+- ✨ **AI** — agents, automation, and ML-adjacent pipelines tied to trading and protocol workflows  
+- ✨ **Solana** — programs, bots, relayers, aggregators, and validator-facing tooling  
+- ✨ **Rust** — systems and protocol-level code for performance-critical paths  
 
 ## Current work *(in progress)*
 
@@ -33,7 +33,7 @@ I build **AI-driven tooling**, **Solana** applications and infrastructure, and *
 
 ## Highlight
 
-- [Jito Pumpfun Bundler (Rust)]([https://github.com/soladdev/pumpfun-bundler-new]) — New pumpfun bundler implementation  
+<a href="https://github.com/soladdev/pumpfun-bundler-new"> [Jito Pumpfun Bundler (Rust)] — New pumpfun bundler implementation </a>  
 
 ---
 
