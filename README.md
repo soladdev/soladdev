@@ -7,7 +7,6 @@
 Engineer focused on intelligent systems, on-chain programs, and high-performance Rust.
 
 [![GitHub](https://img.shields.io/badge/GitHub-soladdev-181717?style=for-the-badge&logo=github)](https://github.com/soladdev)
-[![X (Twitter)](https://img.shields.io/badge/X-@vladmeer67-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vladmeer67)
 [![Telegram](https://img.shields.io/badge/Telegram-@vladmeer67-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladmeer67)
 
 </div>
