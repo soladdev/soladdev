@@ -26,15 +26,6 @@ Currently exploring and developing **modules compatible with Tether’s Wallet D
 - **Rust & TypeScript** — Performance-critical systems and clean, typed SDKs/libraries
 - **AI-Driven Automation** — Intelligent agents for trading and on-chain execution
 
-## Pinned Projects
-
-These are my current pinned repositories that best demonstrate my skills:
-
-- **[pumpfun-bundler-new](https://github.com/soladdev/pumpfun-bundler-new)** — Production-ready Rust + React bundler for Pump.fun token launches with Jito integration
-- **[solana-arbitrge-bot](https://github.com/soladdev/solana-arbitrge-bot)** — High-performance Rust arbitrage bot across Raydium, Orca, Meteora, and Jupiter with MEV protection
-- **[solana-meme-tool](https://github.com/soladdev/solana-meme-tool)** — Full TypeScript automation stack for Solana meme-coin launches, sniping, and post-launch trading
-- **[pumpdotfun-sdk](https://github.com/rckprtr/pumpdotfun-sdk)** — TypeScript SDK contribution for Pump.fun protocol interactions
-
 ## Current Work (In Progress)
 
 - Modular WDK-style components for Solana (bundlers, relayers, swap modules)
