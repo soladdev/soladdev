@@ -2,9 +2,9 @@
 
 # ✩ Soladdev ✩
 
-**AI · Solana · Rust**
+**Solana · Rust · TypeScript · AI**
 
-Engineer focused on intelligent systems, on-chain programs, and high-performance Rust.
+Engineer building high-performance on-chain tools, modular wallet infrastructure, and intelligent DeFi systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-soladdev-181717?style=for-the-badge&logo=github)](https://github.com/soladdev)
 [![Telegram](https://img.shields.io/badge/Telegram-@vladmeer67-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladmeer67)
@@ -15,29 +15,38 @@ Engineer focused on intelligent systems, on-chain programs, and high-performance
 
 ## About
 
-I build **AI-driven tooling**, **Solana** applications and infrastructure, and **Rust** systems where reliability and performance matter. Work spans DeFi-oriented automation, protocol integration, and on-chain–adjacent engineering.
+I am a **Solana & Rust-focused full-stack engineer** with strong experience in building production-grade DeFi tooling, bundlers, arbitrage systems, and modular blockchain integrations.
 
-## Focus areas
+Currently exploring and developing **modules compatible with Tether’s Wallet Development Kit (WDK)** — focusing on self-custodial wallet features, swap aggregators, on-ramp solutions, and multi-chain extensions.
 
-- ✨ **AI** — agents, automation, and ML-adjacent pipelines tied to trading and protocol workflows  
-- ✨ **Solana** — programs, bots, relayers, aggregators, and validator-facing tooling  
-- ✨ **Rust** — systems and protocol-level code for performance-critical paths  
+## Focus Areas
 
-## Current work *(in progress)*
+- **Wallet & SDK Development** — Modular architecture, transaction relayers, bundlers, and plugin-style integrations (aligned with WDK)
+- **Solana Ecosystem** — High-performance bots, launchpad tooling, DEX aggregation, and MEV strategies
+- **Rust & TypeScript** — Performance-critical systems and clean, typed SDKs/libraries
+- **AI-Driven Automation** — Intelligent agents for trading and on-chain execution
 
-- Solana arbitrage and execution tooling (e.g. validator targeting, transaction confirmation strategies)  
-- Relayer adapters and DEX aggregation  
-- Ecosystem tooling around launchpads and sniper/bundler flows  
-- Derivatives, perps, and prediction-market–related experiments  
+## Pinned Projects
 
-## Highlight
+These are my current pinned repositories that best demonstrate my skills:
 
-<a href="https://github.com/soladdev/pumpfun-bundler-new"> [Jito Pumpfun Bundler (Rust)] — New pumpfun bundler implementation </a>  
+- **[pumpfun-bundler-new](https://github.com/soladdev/pumpfun-bundler-new)** — Production-ready Rust + React bundler for Pump.fun token launches with Jito integration
+- **[solana-arbitrge-bot](https://github.com/soladdev/solana-arbitrge-bot)** — High-performance Rust arbitrage bot across Raydium, Orca, Meteora, and Jupiter with MEV protection
+- **[solana-meme-tool](https://github.com/soladdev/solana-meme-tool)** — Full TypeScript automation stack for Solana meme-coin launches, sniping, and post-launch trading
+- **[pumpdotfun-sdk](https://github.com/rckprtr/pumpdotfun-sdk)** — TypeScript SDK contribution for Pump.fun protocol interactions
+
+## Current Work (In Progress)
+
+- Modular WDK-style components for Solana (bundlers, relayers, swap modules)
+- Advanced execution tooling and validator-targeted strategies
+- Ecosystem infrastructure for launchpads and derivatives
 
 ---
 
 <div align="center">
 
-*If a repo here helps you, a star is appreciated.*
+*If any of my repositories help you, a star is appreciated ⭐*  
+
+**Open to collaboration** — especially on Tether WDK modules and grants.
 
 </div>
