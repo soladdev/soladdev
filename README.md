@@ -23,44 +23,44 @@ Currently exploring and developing **modules compatible with Tether’s Wallet D
 
 ### DeFi & Cross-Chain Infrastructure
 
-- **Blazeswap** *(Apr 2022 – Sep 2022)* — Architected a native DEX aggregator on **XION / Cosmos SDK** with a multi-hop CosmWasm routing engine and Next.js trading UI.
-- **ChainSwap** *(Apr 2024 – Nov 2024)* — Led the Solana vertical of a cross-chain swap protocol, integrating **Chainlink CCIP** and **Circle CCTP** to deliver **$44M+** in transfers across 8 chains.
-- **Coinbase x402 Payment Platform** *(2025)* — Built a stablecoin micro-payment checkout layer on top of Coinbase's **x402** standard over Base, including merchant SDK and EIP-712 signed payment proofs.
+- **Blazeswap** — Architected a native DEX aggregator on **XION / Cosmos SDK** with a multi-hop CosmWasm routing engine and Next.js trading UI.
+- **ChainSwap** — Led the Solana vertical of a cross-chain swap protocol, integrating **Chainlink CCIP** and **Circle CCTP** to deliver **$44M+** in transfers across 8 chains.
+- **Coinbase x402 Payment Platform** — Built a stablecoin micro-payment checkout layer on top of Coinbase's **x402** standard over Base, including merchant SDK and EIP-712 signed payment proofs.
 
 ### NFT Platforms & Marketplaces
 
-- **Monkai** *(Oct 2024 – Feb 2025)* — Engineered a unified multi-chain NFT platform spanning **Bitcoin Ordinals, Ethereum, and Solana**, with mint, stake, breed, trade, and airdrop modules behind a single-signature UX.
-- **Teddis** *(Mar 2024 – Jun 2024)* — Delivered a CU-optimized **multi-pNFT staking platform** on Solana using Anchor and Metaplex Candy Machine v3, with a Next.js + Turborepo frontend.
-- **Solana NFT Marketplace** *(2023)* — Built a full-stack Solana NFT marketplace with PDA escrow, royalty enforcement, and a WebSocket-backed listing/bid feed.
-- **Uranus** *(2023)* — Engineered the on-chain economy of a real-estate NFT GameFi title with plot ownership, rental yield, and Three.js-rendered world.
-- **NFT Mission Game** *(2023)* — Architected an on-chain quest system where NFTs gate VRF-driven reward distributions on Solana.
+- **Monkai** — Engineered a unified multi-chain NFT platform spanning **Bitcoin Ordinals, Ethereum, and Solana**, with mint, stake, breed, trade, and airdrop modules behind a single-signature UX.
+- **Teddis** — Delivered a CU-optimized **multi-pNFT staking platform** on Solana using Anchor and Metaplex Candy Machine v3, with a Next.js + Turborepo frontend.
+- **Solana NFT Marketplace** — Built a full-stack Solana NFT marketplace with PDA escrow, royalty enforcement, and a WebSocket-backed listing/bid feed.
+- **Uranus** — Engineered the on-chain economy of a real-estate NFT GameFi title with plot ownership, rental yield, and Three.js-rendered world.
+- **NFT Mission Game** — Architected an on-chain quest system where NFTs gate VRF-driven reward distributions on Solana.
 
 ### Trading Infrastructure, Bundlers & Snipers
 
-- **Meme Coin Trading Platform** *(Aug 2025 – Oct 2025)* — Architected an institutional-grade Solana suite with **bundler, sniper, market-maker, and copy-trading** modules using Jito and Astralane, plus an AI-driven wallet risk-scoring engine.
-- **Trojan Bot (Fork)** *(Jun 2024 – Apr 2025)* — Re-architected the Trojan codebase into a flagship Solana Telegram trading bot serving **1.4M+ users and $2B+ cumulative volume** with Jito-protected multi-DEX routing.
-- **Multi-DEX Sniper** *(2024 – 2025)* — Built per-venue sniper engines across **Raydium, Pumpfun, Pumpswap, Bonkfun, Nad.fun, Four.meme, and PancakeSwap**.
-- **Multi-DEX Bundler** *(2024 – 2025)* — Designed atomic token-launch bundlers on **Raydium, Pumpfun, and Bonkfun** using Jito for SVM and Flashbots-style relays for EVM forks.
+- **Meme Coin Trading Platform** — Architected an institutional-grade Solana suite with **bundler, sniper, market-maker, and copy-trading** modules using Jito and Astralane, plus an AI-driven wallet risk-scoring engine.
+- **Trojan Bot (Fork)** — Re-architected the Trojan codebase into a flagship Solana Telegram trading bot serving **1.4M+ users and $2B+ cumulative volume** with Jito-protected multi-DEX routing.
+- **Multi-DEX Sniper**— Built per-venue sniper engines across **Raydium, Pumpfun, Pumpswap, Bonkfun, Nad.fun, Four.meme, and PancakeSwap**.
+- **Multi-DEX Bundler** — Designed atomic token-launch bundlers on **Raydium, Pumpfun, and Bonkfun** using Jito for SVM and Flashbots-style relays for EVM forks.
 
 ### AI-Powered Crypto Products
 
-- **Dextra Guru** *(Aug 2024 – Jan 2025)* — Fused on-chain execution with **transformer-based LLMs**, turning natural-language intents into Solana transactions backed by mempool/Geyser-driven predictive trend maps.
-- **Cupid AI** *(Jul 2023 – Sep 2023)* — Built an AI-powered chat/screenshot analysis platform delivering real-time relationship insights via OCR + multimodal models.
-- **Apex Signal Bot** *(Sep 2025 – Oct 2025)* — Delivered a Solana signals product that scores trending tokens on volume velocity, holder growth, LP stability, and smart-money flow.
-- **Solana AI Agent** *(Open Source, Jan 2025)* — Released an active **LP monitoring agent** for Raydium CLMM, Orca Whirlpools, and Meteora DLMM with autonomous rebalance recommendations.
+- **Dextra Guru** — Fused on-chain execution with **transformer-based LLMs**, turning natural-language intents into Solana transactions backed by mempool/Geyser-driven predictive trend maps.
+- **Cupid AI** — Built an AI-powered chat/screenshot analysis platform delivering real-time relationship insights via OCR + multimodal models.
+- **Apex Signal Bot** — Delivered a Solana signals product that scores trending tokens on volume velocity, holder growth, LP stability, and smart-money flow.
+- **Solana AI Agent** — Released an active **LP monitoring agent** for Raydium CLMM, Orca Whirlpools, and Meteora DLMM with autonomous rebalance recommendations.
 
 ### Engagement & Community Tooling
 
-- **Raid Bot** *(Feb 2024 – Oct 2024)* — Shipped a gamified Telegram community-engagement platform orchestrating thousands of concurrent raid rooms with leaderboards and anti-abuse controls.
+- **Raid Bot** — Shipped a gamified Telegram community-engagement platform orchestrating thousands of concurrent raid rooms with leaderboards and anti-abuse controls.
 
 ### Gaming & Provably-Fair
 
-- **Degen Taxi** *(Jun 2022 – Sep 2022)* — Built an on-chain Solana crash game with commit-reveal + VRF entropy and a verifiable **5% house edge**.
-- **Solana Casino & Jackpot Games** *(2023)* — Delivered classic casino game suites (jackpot, dice, coinflip) on Solana with on-chain settlement and provably fair randomness.
+- **Degen Taxi** — Built an on-chain Solana crash game with commit-reveal + VRF entropy and a verifiable **5% house edge**.
+- **Solana Casino & Jackpot Games** — Delivered classic casino game suites (jackpot, dice, coinflip) on Solana with on-chain settlement and provably fair randomness.
 
 ### Token Ecosystems
 
-- **Flork** *(2023)* — Engineered the Solana-powered **Flork** meme-token launch, including mint, LP seeding, snipe-defense tooling, and the on-chain claim/airdrop flow.
+- **Flork** — Engineered the Solana-powered **Flork** meme-token launch, including mint, LP seeding, snipe-defense tooling, and the on-chain claim/airdrop flow.
 
 ## Key Achievements
 
