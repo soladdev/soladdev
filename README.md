@@ -17,8 +17,6 @@ Engineer building high-performance on-chain tools, modular wallet infrastructure
 
 9+ years in software engineering, 4+ years in production blockchain systems across **Solana, Ethereum, Bitcoin, Cosmos (XION), and EVM L2s** — shipping DeFi, NFT, AI-augmented trading, and high-throughput on-chain bots that have driven **$2B+ in trading volume** and served **1.4M+ users**.
 
-Currently exploring and developing **modules compatible with Tether’s Wallet Development Kit (WDK)** — focusing on self-custodial wallet features, swap aggregators, on-ramp solutions, and multi-chain extensions.
-
 ## Professional Experience
 
 ### DeFi & Cross-Chain Infrastructure
